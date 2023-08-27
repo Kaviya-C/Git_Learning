@@ -1,0 +1,15 @@
+Now  we will see how to send this current file to the local machine
+
+already we work with git folder in the local machine
+
+now my requirement is i want to send this current file to that local machine of which we work 
+in git folder
+
+
+how can we do this??
+
+use command git pull in vs code terminal
+
+
+git pull -------------> whatever changes done in git that things
+                        all are comes in our local machine
