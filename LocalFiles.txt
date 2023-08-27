@@ -1,0 +1,84 @@
+Here ..
+how can we merge the files which is in git platform?
+
+open the vs code
+
+open the new terminal
+
+there type this command as: 
+
+git clone then copy the link of ur repository which is need to see in local machine 
+
+eg: git clone https://github.com/Kaviya-C/Git_Learning.git
+
+press enter
+
+all the files which we created in git will be available now in our local machines
+
+
+this is the local file which is created inside the Git_Learning folder and it is available in local machine not git platform
+
+how to send this localFilesl.txt to the git?? 
+
+ 
+
+lets see..
+
+check the status of the git now
+LocalFiles.txt file is in red color
+
+
+u---> untracked.....
+how to track------------> git add LocalFiles.txt
+
+
+after done this in terminal  now check the git status
+now we can see the file in green color
+
+now u become changed as   
+
+waiting area:
+A--Staging area
+
+now i want to send my LocalFiles.txt to the git area
+
+for this we use the command as 
+
+git commit -m "Give ur message about the files"
+
+now that text file is having no warnings like 
+u or a  --> untracked or staging area
+
+
+after commit check the git 
+but that text file is not there bcoz we send LocalFiles.txt to the Git_Learning only  not in git platform
+
+for this we have to use the command as
+
+main is the branch
+
+git push origin main 
+press enter
+
+if we do this push for the very first time mean it ask some verification like mail id and password 
+
+proceed with details then check ur git profile
+
+Insert  -- add -- commit -- push
+
+check the browser now ....
+there we can see the LocalFiles text files there
+
+
+
+
+
+
+
+
+
+
+
+
+
+
