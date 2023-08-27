@@ -1,0 +1,48 @@
+Here we can learn how to delete the files in local machine and if we delete any files in local machine
+
+
+that should be reflected to git websites
+
+how we can do this??
+
+lets see...
+
+
+create one demo file and add then commit then push
+
+after doing these steps 
+
+delete that demo file now 
+
+
+check the git browser is it deleted or not?
+
+even after refreshing it is not deleted y???
+
+after deleting this demo files
+
+in terminal use the command git status to check the status of the file
+
+
+there we can see deleted demo.txt 
+will be shown
+
+now type git add demo.txt
+
+add-------> not for adding the files
+
+add--------> meant for whatever the modification done in local machine that should be reflected in git
+
+for that purpose we git add command
+
+
+git add demo.txt
+git commit -m 'deleted'
+git push origin main
+
+go and check the browser now we are not able to see that deleted demo file in the git platform.
+
+
+
+
+
