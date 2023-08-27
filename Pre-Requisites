@@ -1,0 +1,23 @@
+For the first time if we start to upload files in git then we have to follow the below steps
+
+Download GIT in https://git-scm.com/downloads
+
+click download for windows
+
+then click ---> Click here to Download
+
+
+after downloading download vs code bcoz we will work on the git files in local machin of vs code
+
+open the command prompt  -->   type git
+
+it shows some lines of code may contain 200 lines
+
+if it is come then it is successfully installed git in our local machine
+
+after that type inside the command prompt
+
+ git config --global user.name "Kaviya C"
+
+git config --global user.email "kaviyamighty04@gmail.com"
+
